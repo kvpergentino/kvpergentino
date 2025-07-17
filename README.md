@@ -1,4 +1,4 @@
-<h1 align="left">ようこそ、私はカットです。| Sapere aude! </h1>
+<h1 align="left">ようこそ、私はカットです。Sapere aude! </h1>
 
 ### 
 
