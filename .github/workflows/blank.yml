@@ -1,4 +1,4 @@
-name: Gerar Gráfico de Contribuição
+name: Gerar Gráfico de Contribuição Pac-Man
 
 on:
   workflow_dispatch:
@@ -12,27 +12,31 @@ jobs:
   generate:
     permissions:
       contents: write
-    
+      
     runs-on: ubuntu-latest
-    
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout do Repositório
+        uses: actions/checkout@v4
 
-      - uses: platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          
-          
-          # Especifica que o gráfico deve ser construído como "pacman"
-          build_with: pacman
-          
-          outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Gerar Gráfico Pac-Man
+        uses: abozanona/pacman-contribution-graph@v1.0.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USER_NAME: ${{ github.repository_owner }}
+          
+
+      - name: Corrigir Nomes dos Ficheiros
+        run: |
+          mv ./contribution/pacman.svg ./contribution/pacman-contribution-graph.svg
+          mv ./contribution/pacman-dark.svg ./contribution/pacman-contribution-graph-dark.svg
+          
+      
+      - name: Publicar para a Branch 'output'
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: contribution
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
