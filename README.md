@@ -1,7 +1,7 @@
 <h1 align="left">ようこそ、私はカットです。</h1>
 
+###
 
- 
 <br clear="both">
 
 <picture>
@@ -18,7 +18,7 @@
 
 <h3 align="left">Tecnologias</h3>
 
-###
+---
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
