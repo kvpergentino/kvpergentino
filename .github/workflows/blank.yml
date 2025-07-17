@@ -21,18 +21,16 @@ jobs:
 
 
       - name: Gerar Gráfico Pac-Man
-        uses: abozanona/pacman-contribution-graph@v1.0.0
+        uses: abozanona/pacman-contribution-graph@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USER_NAME: ${{ github.repository_owner }}
           
-
       - name: Corrigir Nomes dos Ficheiros
         run: |
           mv ./contribution/pacman.svg ./contribution/pacman-contribution-graph.svg
           mv ./contribution/pacman-dark.svg ./contribution/pacman-contribution-graph-dark.svg
           
-      
       - name: Publicar para a Branch 'output'
         uses: crazy-max/ghaction-github-pages@v4
         with:
