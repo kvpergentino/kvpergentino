@@ -21,6 +21,11 @@ jobs:
       - uses: platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          
+          
+          # Especifica que o gráfico deve ser construído como "pacman"
+          build_with: pacman
+          
           outputs: |
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
