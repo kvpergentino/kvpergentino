@@ -1,0 +1,20 @@
+name: Teste de Token de Permissão
+
+on:
+  workflow_dispatch: # Permite executar manualmente
+
+jobs:
+  test-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # Esta é uma Action muito popular que também precisa de um token
+      # para ler dados do perfil. Vamos ver se ela funciona.
+      - uses: lowlighter/metrics@latest
+        with:
+          # Usando exatamente o mesmo segredo que criamos
+          token: ${{ secrets.PACMAN_TOKEN }}
+          
+          # Configuração básica para gerar apenas uma linha de info
+          user: ${{ github.repository_owner }}
+          base: header
+          plugin_lines: yes
