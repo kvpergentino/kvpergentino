@@ -1,13 +1,13 @@
 <h1 align="left">ようこそ、私はカットです。Sapere aude! </h1>
 
 ### 
-## 🕹️ Jogue Pac‑Man com minhas contribuições!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kvpergentino/kvpergentino/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kvpergentino/kvpergentino/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kvpergentino/kvpergentino/output/pacman-contribution-graph.svg">
+</picture>
 
-<a href="https://abozanona.github.io/pacman-contribution-graph/embeded/canvas.html?username=kvpergentino&platform=github" target="_blank">
-  <img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/main/docs/screenshot.gif" alt="Play Pac‑Man" width="600">
-</a>
-
-> 🎮 Clique na imagem acima para jogar Pac‑Man com o meu gráfico de contribuições!
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
 ---
 
