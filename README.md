@@ -9,7 +9,7 @@
 
 ---
 
-<p align="left">Olá! Eu sou a Kat.<br>Graduanda em Ciência de Dados, nerd por natureza e com um forte interesse em Análise de Dados, Machine Learning e Inteligência Artificial.<br><br>Por aqui, devo (~tentar) publicar os projetos que desenvolvo como parte de estudos práticos e materiais que possam ajudar outras pessoas na jornada de Dados & IA.</p>
+<p align="left">Graduanda em Ciência de Dados, nerd por natureza e com um forte interesse em Análise de Dados, Machine Learning e Inteligência Artificial.<br><br>Por aqui, devo (~tentar) publicar os projetos que desenvolvo como parte de estudos práticos e materiais que possam ajudar outras pessoas na jornada de Dados & IA.</p>
 
 ---
 
