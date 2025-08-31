@@ -20,7 +20,7 @@
   <br><br>
   Uma solução de Business Intelligence desenvolvida para fornecer insights epidemiológicos e apoiar o serviço de controle de infecções em ambiente hospitalar. Este projeto demonstra habilidades em estatística, modelagem de dados, implementação de regras clínicas e visualização de dados.
   <br>
-  Confira o <a href="https://github.com/kvpergentino/microbiological-surveillance-dashboard">repositório</a> e o <a href="https://lookerstudio.google.com/reporting/ba5fd882-81a3-44ae-8493-b08685aeadb0">dashboard interativo</a>.<
+  Confira o <a href="https://github.com/kvpergentino/microbiological-surveillance-dashboard">repositório</a> e o <a href="https://lookerstudio.google.com/reporting/ba5fd882-81a3-44ae-8493-b08685aeadb0">dashboard interativo</a>.
 </p>
 
 ---
