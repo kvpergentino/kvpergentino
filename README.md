@@ -15,7 +15,6 @@
 ---
 
 <h3 align="left">Projeto em Destaque</h3>
-
 <p align="left">
   <strong><a href="https://github.com/kvpergentino/microbiological-surveillance-dashboard">Dashboard de Vigilância Microbiológica</a></strong>
   <br><br>
