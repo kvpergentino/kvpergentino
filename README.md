@@ -22,7 +22,6 @@
   <br>
   <em>Confira o [estudo de caso completo](https://github.com/kvpergentino/microbiological-surveillance-dashboard) e o [dashboard interativo! 📊](https://lookerstudio.google.com/reporting/ba5fd882-81a3-44ae-8493-b08685aeadb0)</em>
 </p>
-
 ---
 
 <h3 align="left">Tecnologias</h3>
