@@ -22,8 +22,8 @@
   <br>
   <em>Confira o <a href="https://github.com/kvpergentino/microbiological-surveillance-dashboard">repositório</a> e o <a href="https://lookerstudio.google.com/reporting/ba5fd882-81a3-44ae-8493-b08685aeadb0">dashboard interativo</a>!</em>
 </p>
----
 
+---
 <h3 align="left">Tecnologias</h3>
 
 <div align="left">
