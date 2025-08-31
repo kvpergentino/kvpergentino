@@ -29,7 +29,7 @@
 <h3 align="left">Tecnologias</h3>
 
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Looker_Studio_logo_and_wordmark.svg" height="40" alt="looker studio logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Google_Looker_Studio_Logo.svg" height="40" alt="looker studio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="powerbi logo"  />
   <img width="12" />
@@ -48,7 +48,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikitlearn logo"  />
   <img width="12" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo"  />
 </div>
 
