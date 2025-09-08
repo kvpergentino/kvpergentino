@@ -21,14 +21,24 @@ Por aqui, compartilho projetos desenvolvidos como parte de estudos práticos, tr
 
 
 ---
-
 <h3 align="left">Projeto em Destaque</h3>
+
 <p align="left">
   <strong><a href="https://github.com/kvpergentino/microbiological-surveillance-dashboard">Dashboard de Vigilância Microbiológica</a></strong>
-  <br><br>
+  <br>
   Uma solução de Business Intelligence desenvolvida para fornecer insights epidemiológicos e apoiar o serviço de controle de infecções em ambiente hospitalar. Este projeto demonstra habilidades em estatística, modelagem de dados, implementação de regras clínicas e visualização de dados.
   <br>
   Confira o <a href="https://github.com/kvpergentino/microbiological-surveillance-dashboard">repositório</a> e o <a href="https://lookerstudio.google.com/reporting/ba5fd882-81a3-44ae-8493-b08685aeadb0">dashboard interativo</a>.
+</p>
+
+<hr>
+
+<p align="left">
+  <strong><a href="https://github.com/kvpergentino/data-science-explained">Data Science Explained</a></strong>
+  <br>
+  Um guia de estudos criado para facilitar a jornada de aprendizado em Ciência de Dados e IA em português. O projeto consolida e organiza conhecimentos de diversas fontes, com foco em detalhar conceitos desde a base e construir a intuição por trás de fórmulas e ideias complexas.
+  <br>
+  Explore o <a href="https://github.com/kvpergentino/data-science-explained">guia de estudos completo</a> no repositório.
 </p>
 
 ---
