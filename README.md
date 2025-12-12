@@ -11,12 +11,9 @@
 <h3 align="left">Sobre mim</h3>
 
 <p align="left">
-👩‍💻 Nerd por natureza, cientista de dados em formação.<br>
+👩‍💻 Nerd por natureza, cientista de dados em formação (4/8).<br>
 📊 Explorando Machine Learning e IA  
 
-Atualmente, atuo no Serviço de Controle de Infecções Relacionadas à Assistência à Saúde (SCIRAS) do Hospital São Lucas, aplicando estatística, epidemiologia hospitalar e métodos de análise de dados para apoiar a gestão e avaliação de indicadores hospitalares e microbiológicos.
-
-Por aqui, compartilho projetos desenvolvidos como parte de estudos práticos, trabalhos científicos e materiais que possam ajudar outras pessoas na jornada de Dados & IA.
 </p>
 
 
