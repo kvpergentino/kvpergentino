@@ -14,7 +14,8 @@
 👩‍💻 Nerd por natureza, cientista de dados em formação (4/8).<br>
 📊 Explorando Machine Learning e IA  
 
-Assistente de Inteligência de Mercado na Scanntech Brasil. Em paralelo, desenvolvo e implemento soluções de dados no contexto hospitalar para monitorar o crescimento microbiológico, resistência antimicrobiana e indicadores de qualidade, fortalecendo a vigilância epidemiológica e a tomada de decisão.
+Assistente de Inteligência de Mercado na Scanntech Brasil.<br>
+Em paralelo, desenvolvo e implemento soluções de dados no contexto hospitalar para monitorar o crescimento microbiológico, resistência antimicrobiana e indicadores de qualidade, fortalecendo a vigilância epidemiológica e a tomada de decisão.
 
 </p>
 
