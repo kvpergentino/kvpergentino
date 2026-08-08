@@ -1,72 +1,74 @@
-<h1 align="left">ようこそ、私はカットです。</h1>
+# ようこそ、私はカットです。
+### Welcome, I'm Kat.
 
-### 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kvpergentino/kvpergentino/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kvpergentino/kvpergentino/output/pacman-contribution-graph.svg">
-  <img alt="Pac‑Man contribution graph" src="https://raw.githubusercontent.com/kvpergentino/kvpergentino/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/kvpergentino/kvpergentino/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
-<h3 align="left">Sobre mim</h3>
 
-<p align="left">
-👩‍💻 Nerd por natureza, cientista de dados em formação (4/8).<br>
-📊 Explorando Machine Learning e IA  
+## About me
 
-Assistente de Inteligência de Mercado na Scanntech Brasil.<br>
-Em paralelo, desenvolvo e implemento soluções de dados no contexto hospitalar para monitorar o crescimento microbiológico, resistência antimicrobiana e indicadores de qualidade, fortalecendo a vigilância epidemiológica e a tomada de decisão.
+Curious by nature, always diving into new corners of the data world. Data Science student (5/8).
 
-</p>
+With a detail-oriented, data-driven approach, I built my first years of experience in the laboratory and healthcare sector, learning to handle sensitive clinical data with consistency, traceability, and methodological rigor. Today I work as a Market Intelligence Assistant at Scanntech Brasil, analyzing market behavior, category performance, and consumption dynamics that support strategic decisions in retail.
 
+In parallel, I develop data solutions for infectious disease teams, building pipelines that transform raw laboratory data into reliable indicators and automated dashboards, strengthening epidemiological monitoring and decision-making.
 
 ---
-<h3 align="left">Projeto em Destaque</h3>
 
-<p align="left">
-  <strong><a href="https://github.com/kvpergentino/microbiological-surveillance-dashboard">Dashboard de Vigilância Microbiológica</a></strong>
-  <br>
-  Uma solução de Business Intelligence desenvolvida para fornecer insights epidemiológicos e apoiar o serviço de controle de infecções em ambiente hospitalar. Este projeto demonstra habilidades em estatística, modelagem de dados, implementação de regras clínicas e visualização de dados.
-  <br>
-  Confira o <a href="https://github.com/kvpergentino/microbiological-surveillance-dashboard">repositório</a> e o <a href="https://lookerstudio.google.com/reporting/ba5fd882-81a3-44ae-8493-b08685aeadb0">dashboard interativo</a>.
-</p>
+## Featured projects
 
-<hr>
+**[PseudomonIA: RAG Pipeline for Antimicrobial Prescribing](https://github.com/kvpergentino/pseudomonia-rag)**
 
-<p align="left">
-  <strong><a href="https://github.com/kvpergentino/data-science-explained">Data Science Explained</a></strong>
-  <br>
-  Um guia de estudos criado para facilitar a jornada de aprendizado em Ciência de Dados e IA em português. O projeto consolida e organiza conhecimentos de diversas fontes, com foco em detalhar conceitos desde a base e construir a intuição por trás de fórmulas e ideias complexas.
-  <br>
-</p>
+A Retrieval-Augmented Generation (RAG) assistant that grounds LLM answers in the WHO AWaRe antibiotic book to reduce hallucinations in antimicrobial prescribing. Peer-reviewed and published in the Brazilian Journal of Infectious Diseases (BJID), developed in collaboration with infectious disease physician Dr. Luis Felipe Silva Visconde.
+
+[Repository](https://github.com/kvpergentino/pseudomonia-rag) · [Published article](https://doi.org/10.1016/j.bjid.2026.105539)
 
 ---
-<h3 align="left">Tecnologias</h3>
+
+**[Microbiological Surveillance Dashboard](https://github.com/kvpergentino/microbiological-surveillance-dashboard)**
+
+A Business Intelligence solution built to provide epidemiological insights and support the infection control service in a hospital setting. It brings together statistics, data modeling, clinical-rule implementation, and data visualization.
+
+[Repository](https://github.com/kvpergentino/microbiological-surveillance-dashboard) · [Interactive dashboard](https://lookerstudio.google.com/reporting/ba5fd882-81a3-44ae-8493-b08685aeadb0)
+
+*This repository and dashboard are in Portuguese.*
+
+---
+
+## Tech stack
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.simpleicons.org/polars" height="40" alt="Polars" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikitlearn logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/duckdb/duckdb-original.svg" height="40" alt="DuckDB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos/logos/dbt.svg" height="40" alt="dbt" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40" alt="Streamlit" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
 </div>
 
 ---
 
-<h3 align="left">📫 Contato</h3>
+## Contact
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/kvpergentino/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kvpergentino/)
